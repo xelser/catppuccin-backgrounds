@@ -1,2 +1,3 @@
-# catppuccin-backgrounds
- My Catppuccin backgrounds 
+# General Instruction
+
+Copy to `$HOME/.local/share/`
